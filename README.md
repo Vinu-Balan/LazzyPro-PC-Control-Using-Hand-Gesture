@@ -30,3 +30,4 @@ https://user-images.githubusercontent.com/73393530/219869395-b8303803-8d70-4798-
 - Adding custom operations
 - Mouse cursor control with hand gesture
 - Realtime pause and resume feature
+- Voice Assistant to notify the state
